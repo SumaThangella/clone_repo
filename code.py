@@ -1,1 +1,1 @@
-this is python first line
+prin("tthis is python first line")
