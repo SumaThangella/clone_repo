@@ -1,1 +1,1 @@
-prin("tthis is python first line")
+print("this is python first line")
